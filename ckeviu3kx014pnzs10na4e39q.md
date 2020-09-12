@@ -1,7 +1,7 @@
 ## Why the BASH shell is called BASH?
 
 
-> Note: I always wanted to write posts that are useful to others. But I have a perfection problem and I am not getting shit done. To stop procrastinating in the name of perfection, I decided to post small things that are imperfect. This is one such post, it may not be a good one or a useful one.
+> Note: I always wanted to write posts that are useful to others. But I have a perfection problem and I am not getting shit done. To stop procrastinating in the name of perfection, I decided to post small things that are imperfect. This is one such post, it may not be a good one or a useful one. I hope the internet will go easy on me.
 
 I like to take an occasional trip down the history lane. It is good to know how things were used to be and how they transformed into the current state. Today I was reading about the different terminal shells and learned how the BASH shell got its name.
 
