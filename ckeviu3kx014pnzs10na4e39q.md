@@ -1,5 +1,8 @@
 ## Why the BASH shell is called BASH?
 
+
+> Note: I always wanted to write posts that are useful to others. But I have a perfection addiction and I am not getting shit done. I decided to post small things that are imperfect to cross the barrier for perfection. This is one such post, it may not be a good one or a useful one.
+
 I like to take an occasional trip down the history lane. It is good to know how things were used to be and how they transformed into the current state. Today I was reading about the different terminal shells and learned how the BASH shell got its name.
 
 Before that, if you want to know what a shell is, It is the program that actually processes commands and returns the output. Most shells also manage foreground and background processes, command history, and command-line editing. It is what we use in the terminal to get things done.
