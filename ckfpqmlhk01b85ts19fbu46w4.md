@@ -8,7 +8,7 @@ A knowledge worker spends an average of only 2 to 4 hours a day on productive wo
 
 Since I can't find any reliable sources to cite, I am writing this based on my personal experience. I work an average of 4 or 5 hours on a good day without any interruptions. On a bad, fragmented day, it'll be far less than that. There are multiple reasons for this.
 
-### 40-hour workweek is a relic of the industrial era.
+### 40-hours workweek is a relic of the industrial era.
 In the industrial era, the output is directly connected with the amount of time you put in. Most of the jobs don't require any thinking. Repetition was the key.
 
 Imagine an assembly line worker putting together a few parts of a car. They almost did the same thing every day and their output is measured by the number of things they can put together per hour. When Henry Ford took brought the conveyer belt to the factory, it was seen as a revolution. It eliminated all the extra movements and increased performance. But the core principle of hours = output remains the same.
