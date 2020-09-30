@@ -8,7 +8,7 @@ A knowledge worker spends an average of only 2 to 4 hours a day on productive wo
 
 Since I can't find any reliable sources to cite, I am writing this based on my personal experience. I work an average of 4 or 5 hours on a good day without any interruptions. On a bad, fragmented day, it'll be far less than that. There are multiple reasons for this.
 
-### 40-hours workweek is a relic of the industrial era.
+### 40-hour workweek is a relic of the industrial era.
 In the industrial era, the output is directly connected with the amount of time you put in. Most of the jobs don't require any thinking. Repetition was the key.
 
 Imagine an assembly line worker putting together a few parts of a car. They almost did the same thing every day and their output is measured by the number of things they can put together per hour. When Henry Ford took brought the conveyer belt to the factory, it was seen as a revolution. It eliminated all the extra movements and increased performance. But the core principle of hours = output remains the same.
@@ -19,7 +19,7 @@ If you're in a position of managing people who do creative work, understanding t
 
 If a worker had a flow state of 3 hours per day their brain needs recharge time. The company is paying both for the peak and the recharge time.
 
-Can we stay in the flow state more than 3 hours? Certainly.
+Can we stay in the flow state for more than 3 hours? Certainly.
 
 Can we repeat it every day? Certainly, not.
 
@@ -34,7 +34,7 @@ I read [The Almanack of Naval Ravikant](https://www.navalmanack.com/) recently a
 
 What a knowledge worker provides is their judgment and skills. Most of their job is decision making considering the trade-offs and benefits. The time they take has very little relevance. We can't rush to a decision if we care about the long term wins.
 
-### The human brain is not optimized for long, focused work
+### The human brain is not evolved for long, focused work
 
 We were hunter-gatherers for a long portion of history. Humans lived and hunted as a group. The main rule is "when in doubt, run". Those who thought long and hard often perished in a predator's jaw. We're the descendants of those quick decision-makers. There was no point in history that an average human needed to use his brain for a long time and earn a living.
 
