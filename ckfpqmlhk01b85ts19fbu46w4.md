@@ -1,5 +1,7 @@
 ## Nobody is working for 8 hours a day, Why?
 
+%%[pocket]
+
 Recently I came across an interesting question on twitter about average working hours per day.
 
 %[https://twitter.com/srigokulkrish/status/1307003566763077634?s=20]
