@@ -52,4 +52,4 @@ The below two lines made me think a lot so I wanted to share them.
 
 ***
 
-I hope I have digested this book well, this is my first attempt in summarizing books. I have doubts about this format. I'm open to any suggestions on how this can be improved.
+This is my first attempt in summarizing books. I have doubts about this format. Let me know what do you think.
