@@ -43,4 +43,4 @@ As for WhereAmI is concerned, I'm not sure if I want to continue pursuing the de
 
 The above list seems obvious in retrospect, but when you're working on the micro-level this can be hard to realize. Maybe this is how all the Indie hackers are doing and I'm the one who hasn't realized. Either way, I'm really happy I attempted to build something on my own, it was a stretch project for me.
 
-I hope this helps anyone on a similar journey and would love to see your thoughts on it. If you enjoyed reading this, consider %%[buymeacoffee]
+I hope this helps anyone on a similar journey and would love to see your thoughts on it.
