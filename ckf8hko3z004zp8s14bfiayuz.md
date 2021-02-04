@@ -1,6 +1,6 @@
 ## 9 important lessons I learned as a developer for 7 years
 
-I'm working as a software developer for 7 years. You can read my background and how I got into the industry [here](https://vikky.dev/college-degree).  There are a few things I wish I learned earlier. Knowing these in advance would have made my job a lot easier. Some of this might sound pretty obvious, but not for me. If you're in the early stages of your career, doing a few of this will make you stand out.
+I'm working as a software developer for 7 years. You can read my background and how I got into the industry [here](https://vikky.dev/college-degree).  There are a few things I wish I learned earlier. Knowing these in advance would have made my job a lot easier. Some of this might sound pretty obvious, but not for me. If you're in the early stages of your career, doing a few of these will make you stand out.
 
 ### 1. We need to find the right place to work for
 
@@ -12,7 +12,7 @@ Switch between different places and switch early. Don't wait until the ship sink
 
 In most places, the only way to get a raise or a promotion you deserve is to switch to a different company. Hiring managers are saying that too many switches make your resume look bad. In my not so humble opinion, this is a bullshit metric. Entry-level employees are often treated poorly. It is hard to stay in one place for a long time. Stability matters if you're hiring for senior or leadership roles. But please stop looking for stability in entry-level applicants. Start treating them better and they won't have to switch a lot.
 
-In my first 4 years, I switched 3 companies. The current place I work for is my 4th one and I am here for 3 years. Start experimenting early in your career. Ask around about the place you're considering to join. Take interviews with different companies and select the right one for you. Ageism plays a big role in our industry. As you get older the places you can even get an interview will reduce. Take your chances when you're in the early stage.
+In my first 4 years, I switched 3 companies. The current place I work for is my 4th one and I am here for 3 years. Start experimenting early in your career. Ask around about the place you're considering joining. Take interviews with different companies and select the right one for you. Ageism plays a big role in our industry. As you get older the places you can even get an interview will reduce. Take your chances when you're in the early stage.
 
 ### 2. Tech skills are only part of the equation
 
@@ -50,7 +50,7 @@ People who excel at both tech skills and communication skills will thrive.
 
 ### 5. Networking
 
-This is one of my weakest areas. Having good connections will open a lot of doors for you. If you're looking for a job or a new member for your team, being part of a developer network in your area makes it easier.
+This is one of my weakest areas. Having good connections will open a lot of doors for you. If you're looking for a job or a new member of your team, being part of a developer network in your area makes it easier.
 
 You can find people easier than traditional hiring methods. Online communities such as Twitter, Discord servers, Whatsapp groups are great too. I found a few great teammates through a Whatsapp group. It can do wonders for you when you connect with the right people. 
 
@@ -87,4 +87,8 @@ You can go through numerous user experience theories or you can learn by watchin
 
 Once you learned about your users, use that knowledge to improve your application. You can influence design decisions, Improve performance and usability. In most cases, the users will always try to use your software differently than you imagined. Having this knowledge will definitely make you stand out from the rest. 
 ___
-Despite many of the hardships in this job, I'm really thankful for the tech industry. There were not a lot of industries I can get in without any formal education and skills. I don't know what I would be doing if I didn't get the first unpaid internship. It is one hell of a year for me as I'm exploring different areas such as writing, building apps seriously than before. Looking forward to the upcoming years and new challenges.
+Despite many of the hardships in this job, I'm really thankful for the tech industry. There were not a lot of industries I can get into without any formal education and skills. I don't know what I would be doing if I didn't get the first unpaid internship. It is one hell of a year for me as I'm exploring different areas such as writing, building apps seriously than before. Looking forward to the upcoming years and new challenges.
+
+If you enjoyed reading this consider
+
+%%[buymeacoffee]
