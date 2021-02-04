@@ -53,3 +53,7 @@ The below two lines made me think a lot so I wanted to share them.
 ***
 
 This is my first attempt in summarizing books. I have doubts about this format. Let me know what do you think.
+
+If you enjoyed reading this consider
+
+%%[buymeacoffee]
