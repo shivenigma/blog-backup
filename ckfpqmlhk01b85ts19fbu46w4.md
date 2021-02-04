@@ -2,7 +2,7 @@
 
 %%[pocket]
 
-Recently I came across an interesting question on twitter about average working hours per day.
+Recently I came across an interesting question on Twitter about average working hours per day.
 
 %[https://twitter.com/srigokulkrish/status/1307003566763077634?s=20]
 
@@ -17,11 +17,11 @@ Imagine an assembly line worker putting together a few parts of a car. They almo
 
 Enter our knowledge work era, things are blurry. Imagine a developer sitting in his desk thinking about something. Are they thinking about the current problem or just wandering? You'll never know. We can't measure the performance here by measuring the number of hours they put in. This is a fact that everyone knows. But we're collectively still hanging to the 40 hours work week.
 
-If you're in a position of managing people who do creative work, understanding this simple fact is essential. Hours are not equal to performance. I believe in creative bursts that let people do a lot of work within a short time. performance scientists call this as flow state.
+If you're in a position of managing people who do creative work, understanding this simple fact is essential. Hours are not equal to performance. I believe in creative bursts that let people do a lot of work within a short time. performance scientists call this a flow state.
 
 If a worker had a flow state of 3 hours per day their brain needs recharge time. The company is paying both for the peak and the recharge time.
 
-Can we stay in the flow state more than 3 hours? Certainly.
+Can we stay in the flow state for more than 3 hours? Certainly.
 
 Can we repeat it every day? Certainly, not.
 
@@ -34,7 +34,7 @@ I read [The Almanack of Naval Ravikant](https://www.navalmanack.com/) recently a
 
 > My definition of wisdom is knowing the long-term consequences of your actions. Wisdom applied to external problems is judgment. They’re highly linked; knowing the long-term consequences of your actions and then making the right decision to capitalize on that.
 
-What a knowledge worker provides is their judgment and skills. Most of their job is decision making considering the trade-offs and benefits. The time they take has very little relevance. We can't rush to a decision if we care about the long term wins.
+What a knowledge worker provides are their judgment and skills. Most of their job is decision making considering the trade-offs and benefits. The time they take has very little relevance. We can't rush to a decision if we care about the long term wins.
 
 ### The human brain is not optimized for long, focused work
 
@@ -54,7 +54,7 @@ In a way, knowledge workers are working outside of the clock as well. They're le
 
 A while ago, I was reading about optimizing angular performance. A couple of months later, when we faced some performance issues, I suggested a few ideas I learned from that post. The company is benefitting from the knowledge I gathered on my own time. The reverse is also true, Most of my skills are learned while getting paid from the company for it.
 
-These are the reasons that people tend to work less than 8-hours a day. But there are business needs to measure and document everything.
+These are the reasons that people tend to work less than 8-hours a day. But there is business needs to measure and document everything.
 
 ## How to measure productivity?
 
@@ -69,7 +69,7 @@ Ask the following questions about your team,
 2. Your customers are frustrated because of your engineering team's velocity?
 3. Does your team surprise you with reasons at the last minute?
 
-The answer to these questions can create a discussion. If your organization is transparent you can find the problems and fix them easily. Trusting your team to do their job well can take you far then nitpicking on irrelevant details.
+The answer to these questions can create a discussion. If your organization is transparent you can find the problems and fix them easily. Trusting your team to do their job well can take you far than nitpicking on irrelevant details.
 
 ## How to improve productivity?
 
@@ -80,16 +80,16 @@ There are ways that you can help your team to get more done by creating the idea
 I am aware of the serendipity aspect of open office plans. But the noise, mobile ringtones, chatter really beats that advantage. To be honest, I hate open office setup.
 
 Ironically, I live in India where the population density is so high, open offices are the only way to keep real-estate costs in control for businesses. It is not practical to completely remove open office plans, but can improve the quality of your office by,
-- Create focus rooms and encourage people to use it.
+- Create focus rooms and encourage people to use them.
 - Enforce some rules about distractions within the focus rooms.
-- Try to reduce the unwanted distractions in the open floor
+- Try to reduce the unwanted distractions on the open floor
 - Buy noise-cancellation headphones and earplugs for your workforce.
 
 ### Difference between the manager's schedule and the maker's schedule
 
  Paul Graham wrote an [excellent article](http://www.paulgraham.com/makersschedule.html) about this. In short, the knowledge worker's schedule needs long periods of uninterrupted work. If you schedule meetings in the middle of such periods, time is fragmented into two less useful pieces of time.
 
-To avoid the fragmentation,
+To avoid fragmentation,
 
 - Implement no meetings days in a week or no meetings time range in a workday.
 - Plan all your meetings within the first or second half of the day.
@@ -100,3 +100,7 @@ To avoid the fragmentation,
 If you're running a business or managing a team of creative people, stop thinking about the time and start thinking in terms of the value created. Their judgment and skills are important than their starting and closing time. Create an ideal work environment and trust your team to deliver results.
 
 Note: My thoughts might be biased, attributed to my limited experience in other areas of business. I am happy to make any changes if someone provides a good counter-argument.
+
+If you enjoyed reading this consider
+
+%%[buymeacoffee]
