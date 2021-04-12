@@ -23,7 +23,7 @@ People leave jobs for N number of reasons.
 
 All the above reasons are valid and respectable. Times are over where people worked one job for their whole life and retired with a pension. Don't cling to the past metrics, they don't make any sense in our world.
 
-When I wanted to switch to my second job, my father was shocked. He asked, "The first job taught me what I know. is it fair to leave now?".
+When I wanted to switch to my second job, my father was shocked. He asked, "The first job taught you what you know. Is it fair to leave now?".
 
 He was talking about loyalty. But loyalty is a two-way street. If one isn't valued in a place, it is okay to move to the next place. As [Apoorva Govind puts it](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable),
 
