@@ -8,7 +8,7 @@ The easiest thing is to read within your field of work. But I believe in [Creati
 
 Before started taking notes, I wasn't worried about what or how I read. Reading was a fun activity even with non-fiction. Once I started taking notes this changed a bit. I did not take notes the right way though. Just collected random quotes without internalizing. For a few books I tried to export highlights, I hit Amazon's export limit.😬
 
-Reading [[How to take smart notes]] changed how I take notes from the material. Now I only take notes about ideas that can fit into what is already my notes or those that can be potentially used in other contexts.
+Reading How to take smart notes changed how I take notes from the material. Now I only take notes about ideas that can fit into what is already my notes or those that can be potentially used in other contexts.
 
 [I read 30 books in 2020](https://vikky.dev/the-top-5-books-i-read-in-2020) and don't remember a lot of the content. But we don't need to  remember all the details. Books and language work on a level deeper than our rational brain. Whatever you read can change you in ways you don't realize.
 
