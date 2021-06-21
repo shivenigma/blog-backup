@@ -13,7 +13,7 @@ Since I can't find any reliable sources to cite, I am writing this based on my p
 ### 40-hour workweek is a relic of the industrial era.
 In the industrial era, the output is directly connected with the amount of time you put in. Most of the jobs don't require any thinking. Repetition was the key.
 
-Imagine an assembly line worker putting together a few parts of a car. They almost did the same thing every day and their output is measured by the number of things they can put together per hour. When Henry Ford took brought the conveyer belt to the factory, it was seen as a revolution. It eliminated all the extra movements and increased performance. But the core principle of hours = output remains the same.
+Imagine an assembly line worker putting together a few parts of a car. They almost did the same thing every day and their output is measured by the number of things they can put together per hour. When Henry Ford brought the conveyer belt to the factory, it was seen as a revolution. It eliminated all the extra movements and increased performance. But the core principle of hours = output remains the same.
 
 Enter our knowledge work era, things are blurry. Imagine a developer sitting in his desk thinking about something. Are they thinking about the current problem or just wandering? You'll never know. We can't measure the performance here by measuring the number of hours they put in. This is a fact that everyone knows. But we're collectively still hanging to the 40 hours work week.
 
