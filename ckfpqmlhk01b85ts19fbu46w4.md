@@ -58,7 +58,7 @@ These are the reasons that people tend to work less than 8-hours a day. But ther
 
 ## How to measure productivity?
 
-There is no actual way to measure the productivity of an individual developer. Many have tried and failed. Instead of trying to measure what's not measurable,  You can think o the following.
+There is no actual way to measure the productivity of an individual developer. Many have tried and failed. Instead of trying to measure what's not measurable,  You can think of the following.
 
 1. Measuring the outcome of their work
 2. How they contribute to the success of their team and to your business?
@@ -93,7 +93,7 @@ To avoid fragmentation,
 
 - Implement no meetings days in a week or no meetings time range in a workday.
 - Plan all your meetings within the first or second half of the day.
-- Reduce the number of meetings you need, asynchronous discussions are more than enough.
+- Reduce the number of meetings you need, asynchronous discussions are better.
 
 --- 
 
