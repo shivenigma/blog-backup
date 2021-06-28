@@ -1,4 +1,4 @@
-## 9 important lessons I learned as a developer for 7 years
+## 9 important lessons I learned working as a developer for 7 years
 
 I'm working as a software developer for 7 years. You can read my background and how I got into the industry [here](https://vikky.dev/college-degree).  There are a few things I wish I learned earlier. Knowing these in advance would have made my job a lot easier. Some of this might sound pretty obvious, but not for me. If you're in the early stages of your career, doing a few of these will make you stand out.
 
@@ -10,7 +10,7 @@ Switch between different places and switch early. Don't wait until the ship sink
 
 %[https://twitter.com/ShivEnigma/status/1228562212819595266]
 
-In most places, the only way to get a raise or a promotion you deserve is to switch to a different company. Hiring managers are saying that too many switches make your resume look bad. In my not so humble opinion, this is a bullshit metric. Entry-level employees are often treated poorly. It is hard to stay in one place for a long time. Stability matters if you're hiring for senior or leadership roles. But please stop looking for stability in entry-level applicants. Start treating them better and they won't have to switch a lot.
+In most places, the only way to get a raise or a promotion you deserve is to [switch to a different company](https://vikky.dev/job-hopping-or-why-people-arent-sticking-with-one-job-in-a-company). Hiring managers are saying that too many switches make your resume look bad. In my not so humble opinion, this is a bullshit metric. Entry-level employees are often treated poorly. It is hard to stay in one place for a long time. Stability matters if you're hiring for senior or leadership roles. But please stop looking for stability in entry-level applicants. Start treating them better and they won't have to switch a lot.
 
 In my first 4 years, I switched 3 companies. The current place I work for is my 4th one and I am here for 3 years. Start experimenting early in your career. Ask around about the place you're considering joining. Take interviews with different companies and select the right one for you. Ageism plays a big role in our industry. As you get older the places you can even get an interview will reduce. Take your chances when you're in the early stage.
 
