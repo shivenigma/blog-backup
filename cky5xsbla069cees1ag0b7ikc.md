@@ -4,6 +4,8 @@ It's been a while since I wrote anything here. I wanted to write this in Decembe
 
 This is not a prediction of what will get big in 2022 (though some of these might). This is a personal upskilling plan. These are the technologies I'm going to explore in this year apart from what I do at work. I don't think I can master all of these in 2022. I'm learning in slow burn, this is defining my area of focus.
 
+> Note: Thoughts expressed here are personal. I'm not representing my employer or anyone else.
+
  ### Stuff I'm going to learn
 #### Rust
 I'm learning Rust from 2020 but barely scratched the surface. Rust has a steep learning curve and not having prior low-level knowledge makes it harder. I wrote my [first impression](https://vikky.dev/rust-learning-quest-1) and implemented [array data structure with Rust](https://vikky.dev/learning-cs-arrays). After that, I'm stuck on implementing Linkedlist because it is far beyond my current Rust knowledge.
@@ -57,6 +59,7 @@ I asked around what people are using for backends, lot of people said Node and D
 I want to build few apps in node and publish them. I'll also try moving to backend with node at work to learn it better.
 
  ### Stuff I'm keeping an eye on
+
 #### Tailwind
 I know CSS and bootstrap enough to convert any design into UI. I use Angular material at work. There is no incentive for me to start learning another way to write UI. But I heard a lot of praise for Tailwind throughout last year.
 
