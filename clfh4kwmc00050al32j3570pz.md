@@ -25,6 +25,10 @@ I'm surprised the iOS has become better at customization/flexibility than the la
     
 * Bitwarden (password manager) works much better and faster than android.
     
+* The ability to scan any pic in the camera/editor and extract text. Though this is possible in google Lens, the iOS camera has this built-in.
+    
+* The clipboard and open tabs sync between mobile and MacBook.
+    
 
 Few things I miss from Android
 
