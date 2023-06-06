@@ -13,7 +13,7 @@ One of our teammates quickly shared a repo that dates even before I joined here 
 
 But this kept me thinking, she is fairly new to the organization than me but was aware of an old repo. I understood that not just writing documentation at random places and hoping people will pick them up will never work well. Documenting is the easier part. Keeping them up to date and discoverable for others is the real challenge.
 
-It has to be instilled in the team culture that documentations are available and it should be used and updated. If docs are available but outdated, people will stop using them. If people stopped using the docs, they will get even more outdated with no relationship to reality. This is a vicious cycle and eventually, your documents and any past efforts you put on them will go to waste.
+It has to be instilled in the team culture, that documentation is available and it should be used and updated. If docs are available but outdated, people will stop using them. If people stopped using the docs, they will get even more outdated with no relationship to reality. This is a vicious cycle. Eventually, your documents and any past efforts you put into them will go to waste.
 
 To keep this from happening, we should try the following.
 
