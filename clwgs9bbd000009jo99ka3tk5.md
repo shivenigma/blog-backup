@@ -13,7 +13,7 @@ I was on a trip to attend a friend's marriage and faced a lot of usual stuff on 
 
 I usually stay frustrated for a few hours and then it'll wear down. But this week, I keep on hearing news after news which makes it really hard to let go.
 
-First thing is [a 17 year old rich dickhead drove his Porsche Taycan at over 150 kmph and rammed it into a software engineer couple on their bike](https://timesofindia.indiatimes.com/city/pune/photos-outrage-over-techies-death-in-pune-porsche-taycan-accident/photostory/110292638.cms?picid=110292684), the teenager was under the influence of alcohol, the couple (despite heavily regretting what's happened to them) weren't wearing basic protection gear like a helmet. The car was not registered under anyone's name and was running on a temporary registration.
+First thing is [a 17 year old rich <s>dickhead<s> drove his Porsche Taycan at over 150 kmph and rammed it into a software engineer couple on their bike](https://timesofindia.indiatimes.com/city/pune/photos-outrage-over-techies-death-in-pune-porsche-taycan-accident/photostory/110292638.cms?picid=110292684), the teenager was under the influence of alcohol, the couple (despite heavily regretting what's happened to them) weren't wearing basic protection gear like a helmet. The car was not registered under anyone's name and was running on a temporary registration.
 
 If you're from any of the saner countries that doesn't drive to kill, you can instantly feel, "Wow, that's a whole lot of wrong things within one paragraph", right? Not for Indians. In fact, most of the above would not shock Indians because that's the norm here.
 
