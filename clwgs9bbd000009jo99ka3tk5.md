@@ -13,15 +13,15 @@ I was on a trip to attend a friend's marriage and faced a lot of usual stuff on 
 
 I usually stay frustrated for a few hours and then it'll wear down. But this week, I keep on hearing news after news which makes it really hard to let go.
 
-First thing is [a 17 year old rich <s>dickhead<s> drove his Porsche Taycan at over 150 kmph and rammed it into a software engineer couple on their bike](https://timesofindia.indiatimes.com/city/pune/photos-outrage-over-techies-death-in-pune-porsche-taycan-accident/photostory/110292638.cms?picid=110292684), the teenager was under the influence of alcohol, the couple (despite heavily regretting what's happened to them) weren't wearing basic protection gear like a helmet. The car was not registered under anyone's name and was running on a temporary registration.
+First thing is [a 17 year old rich <s>dickhead</s> teenager drove his Porsche Taycan at over 150 kmph and rammed it into a software engineer couple on their bike](https://timesofindia.indiatimes.com/city/pune/photos-outrage-over-techies-death-in-pune-porsche-taycan-accident/photostory/110292638.cms?picid=110292684), the teenager was under the influence of alcohol, the couple (despite heavily regretting what happened to them) weren't wearing even basic protection gear like a helmet. The car was not registered under anyone's name and was running on a temporary registration.
 
 If you're from any of the saner countries that doesn't drive to kill, you can instantly feel, "Wow, that's a whole lot of wrong things within one paragraph", right? Not for Indians. In fact, most of the above would not shock Indians because that's the norm here.
 
 The court has granted bail to the accused considering he is minor. I agree minors needs to be tried as juveniles not as adults. But why on earth a minor can get their hands on a sports car, was served drinks on a bar, and was allowed to even get to the steering wheel under influence?
 
-The father, the bar owner have been arrested after a lot of public outcry on social media. But this case has enough loopholes that this 17yo shithead can drive his Porsche through and get out safe.
+The father, the bar owner have been arrested after a lot of public outcry on social media. But this case has enough loopholes that this 17yo <s>shithead</s> accused can drive his Porsche through and get out safe.
 
-The pressure and attempts to protest organised through social media put pressure on politicians and cops to at least make some arrests even if the case may not hold it together in the trial and witness may be bought, bent or ... But what worries me more than this is attitude of some self proclaimed car guys on Instagram who were spitting golden statements like below.
+The pressure and attempts to protest organised through social media put pressure on politicians and cops to at least make some arrests. But case may not hold it together in the trial and witness may be bought, bent or... But what worries me more than this is attitude of some self proclaimed car guys and teenagers on Instagram who were spitting golden statements like below.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1716318641710/13040161-dc9d-4e64-9f4d-82fe68c9041f.jpeg align="center")
 
